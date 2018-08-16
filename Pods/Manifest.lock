@@ -1,0 +1,16 @@
+PODS:
+  - PayPal-iOS-SDK (2.11.5)
+
+DEPENDENCIES:
+  - PayPal-iOS-SDK (~> 2.11.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - PayPal-iOS-SDK
+
+SPEC CHECKSUMS:
+  PayPal-iOS-SDK: e5b0cf6c38866a47dad92f97df92848a90d3b858
+
+PODFILE CHECKSUM: 18d026987cc19ec269150d7cf89256aa948f988a
+
+COCOAPODS: 1.5.0
